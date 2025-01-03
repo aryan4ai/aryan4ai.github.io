@@ -1,6 +1,6 @@
 <img alt="alt_text" width="240px" src="aryan.jpg"/>
 
- [<img alt="alt_text" width="80px" src="resume logo 3.jpg" />](https://drive.google.com/file/d/1KpWurQpUV1viriVxmcEF8YuKoJ-4k34U/view?usp=sharing)
+ [<img alt="alt_text" width="80px" src="resume logo 3.jpg" />](https://drive.google.com/file/d/10HWZerKbHbKflL2PndPo3EgdgrniviUo/view?usp=sharing)
 
 
 Hey there👋🏽, I'm a developer, an AI and Data Science undergrad. I usually like spending my time reading about building useful products, connecting with tech community on twitter/discord, swimming and riding my bike.
